@@ -23,8 +23,10 @@ entrypoints==0.4
 executing==0.8.3
 fastjsonschema==2.15.3
 filelock==3.7.1
+Fiona @ file:///C:/Users/Jemmy/Downloads/Fiona-1.8.21-cp310-cp310-win_amd64.whl
 fonttools==4.33.3
 fsspec==2022.5.0
+GDAL @ file:///C:/Users/Jemmy/Downloads/GDAL-3.4.3-cp310-cp310-win_amd64.whl
 geographiclib==1.52
 geopandas==0.10.2
 geopy==2.2.0
